@@ -19,7 +19,7 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    height: calc(100vh - 65px);
+    height: calc(80vh - 65px);
     background-color: #303030;
     color: white;
     /* padding-top: 10%; */
@@ -52,7 +52,7 @@ header{
 
 .dos{
     background-color: #F2F2F2;
-    height: 700px;
+    height: 900px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -84,7 +84,7 @@ header{
     color: #F2F2F2;
 }
 .proyectos{
-    width: 60%;
+    width: 80%;
     display: flex;
     justify-content: space-between;
 }
@@ -109,7 +109,7 @@ header{
 }
 
 footer{
-    background-color: #424242;
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
