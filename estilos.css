@@ -44,10 +44,10 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 60%;
+    width: 80%;
     background-color: #F2F2F2;
     color: #303030;
-    padding: 10px;
+    padding: 1px;
 }
 
 .dos{
@@ -114,7 +114,7 @@ footer{
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    color: #000000;
+    color: #0e0d0d;
     height: 250px;
 }
 .contacto{
